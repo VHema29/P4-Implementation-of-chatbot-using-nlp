@@ -70,7 +70,7 @@ st.markdown('''
 
 # Main Streamlit application
 def main():
-    st.title("Intents of Chatbot using NLP")
+    st.title("Chatbot using NLP")
 
     # Sidebar menu
     menu = ["Home", "Conversation History", "About"]
